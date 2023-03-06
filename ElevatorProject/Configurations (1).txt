@@ -1,0 +1,1 @@
+MaximumFloor:10, MaximumElevatorNumber:6
